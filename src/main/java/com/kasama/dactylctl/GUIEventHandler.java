@@ -17,7 +17,7 @@ public class GUIEventHandler {
   static final String VENDOR_ID = "0x4B41";
   static final String PRODUCT_ID = "0x636D";
   static final int BASE_LAYER = 0;
-  static final int GAME_LAYER = 4;
+  static final int GAME_LAYER = 2;
 
   public AtomicInteger openedTimes;
   private Logger logger;
